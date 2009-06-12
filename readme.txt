@@ -3,9 +3,9 @@ Contributors: Scott Reilly
 Donate link: http://coffee2code.com/donate
 Tags: comments, close comments, open comments, admin, coffee2code
 Requires at least: 2.6
-Tested up to: 2.7.1
-Stable tag: 1.0
-Version: 1.0
+Tested up to: 2.8
+Stable tag: 1.1
+Version: 1.1
 
 Conveniently close or open comments for a post or page with one click.
 
